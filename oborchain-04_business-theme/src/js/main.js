@@ -18,6 +18,6 @@ $(document).on('click', '[data-toggle="lightbox"]', function(event){
 
 $('.slider').slick({
   infinite: true,
-  slideToShow:1,
-  slideToScroll:1
+  slideToShow: 1,
+  slideToScroll: 1
 });

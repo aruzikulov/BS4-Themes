@@ -73,3 +73,37 @@ body{
     color:#fff;
   }
 }
+
+footer#main-footer{
+  background: #000;
+  color:#fff;
+}
+
+#page-header{
+  heght:200px;
+  background: url('../img/image1.jpg');
+  background-position: 0 -360px;
+  background-attachment: fixed;
+  color:#fff;
+  border-bottom: 1px #eee solid;
+  padding-top:50px;
+}
+
+#about{
+  img{
+    margin-top:-20px;
+  }
+}
+
+#faq{
+  .card{
+    border:#444;
+    a{
+      color:#fff;
+      text-decoration:none;
+    }
+  }
+  .card-body, .card-header{
+    background: #333;
+  }
+}
