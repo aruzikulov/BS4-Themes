@@ -2,9 +2,11 @@
 
 In order to compile the assets and run it on local you need to follow these steps:
 
-1. To see the themes download them and open index.html file inside 'src' folder
+1. To see the themes online https://aruzikulov.github.io/BS4-Themes
 
-2. For Development:
+2. To see the themes locally, download them and open index.html file inside 'src' folder
+
+3. For Development:
 - Clone the repo.
 - Install [NodeJS](https://nodejs.org/)
 - Inside any Theme folder Run `npm install`
