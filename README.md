@@ -8,7 +8,6 @@ In order to explore the themes, follow any of the following 2 choices
 
 In order to compile the assets and run it on local you need to follow these steps:
 
-3. For Development:
 - Clone the repo.
 - Install [NodeJS](https://nodejs.org/)
 - Inside any Theme folder Run `npm install`
