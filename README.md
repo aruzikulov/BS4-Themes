@@ -2,12 +2,12 @@
 
 In order to compile the assets and run it on local you need to follow these steps:
 
-1. To see the themes open index.html file inside 'src' folder
+1. To see the themes download them and open index.html file inside 'src' folder
 
 2. For Development:
 - Clone the repo.
 - Install [NodeJS](https://nodejs.org/)
-- Run `npm install`
+- Inside any Theme folder Run `npm install`
 - Run `npm start`
 
 ## License
