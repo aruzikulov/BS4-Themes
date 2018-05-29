@@ -1,10 +1,12 @@
 # Bootstrap4 Front End Themes
 
-In order to compile the assets and run it on local you need to follow these steps:
+In order to explore the themes, follow any of the following 2 choices
 
 1. To see the themes online https://aruzikulov.github.io/BS4-Themes
 
 2. To see the themes locally, download them and open index.html file inside 'src' folder
+
+In order to compile the assets and run it on local you need to follow these steps:
 
 3. For Development:
 - Clone the repo.
